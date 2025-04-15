@@ -1,0 +1,10 @@
+Summary:
+I set up a Kali Linux virtual machine on VirtualBox with 6GB RAM and 40GB storage, using the 2025.1 ISO. 
+After a failed first attempt due to a Python installation issue, I reinstalled everything successfully.
+I configured the hostname to "vbox-kali-linux" and tested basic shell commands like cd, pwd, and whoami. 
+This hands-on experience boosted my confidence in using Kali for upcoming Red Team labs.
+
+Next step:
+Complete TryHackMe’s Linux Fundamentals module, applying each command directly in the VM.
+
+

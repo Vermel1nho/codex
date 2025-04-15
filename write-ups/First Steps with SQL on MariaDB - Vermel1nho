@@ -1,0 +1,6 @@
+Summary:
+I installed MariaDB on my Kali VM and created a database called site_vulneravel with a users table filled with dummy accounts.
+I ran basic queries using SELECT, simulated login filtering, and practiced SQL Injection (OR 1=1, LIKE, UNION). 
+The query UNION SELECT 1, 'hacked', 'by_vermel1nho', 'pentest'; simulated fake data injection.
+This was a key hands-on step in learning how to exploit databases for pentesting.
+
