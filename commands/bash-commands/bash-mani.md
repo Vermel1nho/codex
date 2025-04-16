@@ -32,10 +32,13 @@ Tip: mkdir -p folder1/folder2 (Use -p to create nested directories)
 3- `rm` = Removes files or directories.
 
 rm <file>
+
 rm -r <directory>
 
 Example:
+
 rm file.txt
+
 rm -r old_folder
 
 Warning:
@@ -48,10 +51,13 @@ Use -f to force removal, but be careful.
 4- `cp` = Copies files or directories.
 
 cp <source> <destination>
+
 cp -r <source_dir> <destination_dir>
 
 Example:
+
 cp notes.txt backup.txt
+
 cp -r folder1 folder2
 
 Tip: Use -r (recursive) to copy directories
@@ -63,7 +69,9 @@ Tip: Use -r (recursive) to copy directories
 mv <source> <destination>
 
 Examples:
+
 mv report.txt ~/Documents
+
 mv old_name.txt new_name.txt
 
 Tip: Used for both moving and renaming

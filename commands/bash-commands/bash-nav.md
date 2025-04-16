@@ -14,6 +14,7 @@ Commands:
 Displays the full path of the current working directory.
 
 Example:
+
 /home/kali/scripts
 
 ---
@@ -23,9 +24,13 @@ Example:
 Changes de current directory.
 
 Example:
+
 cd /etc
+
 cd .. (This one moves one level up)
+
 cd ~ (This one goes straight to your home)
+
 cd ~/Downloads
 
 Tab key auto-completes path~
@@ -39,9 +44,13 @@ Lists the content of a directory.
 ls [options]
 
 Example:
-ls 
+
+ls
+ 
 ls -l (Shows details like permissions and timestamps)
+
 ls -a (Shows hidden files)
+
 ls -la
 
 ---
@@ -51,6 +60,7 @@ ls -la
 Displays the contents of a file in the terminal.
 
 Example:
+
 cat /etc/passwd
 
 Tip: For large files, consider using `less` or `more`
