@@ -1,32 +1,25 @@
-# nmap -sn
+nmap -sn
 
-📌 **Descrição**  
-Executa uma varredura do tipo *ping scan*, que serve para descobrir quais hosts (dispositivos) estão ativos em uma rede.  
-Este modo **não escaneia portas**, apenas verifica se o host responde a ping (ou outros métodos de detecção).
+Description:
 
----
+Performs a ping scan, which is used to discover which hosts (devices) are active on a network.
+This mode does not scan ports, it only checks if the host responds to ping (or other detection methods).
 
-## 💻 Sintaxe
+Syntax:
 
-```bash
-nmap -sn <IP-OU-INTERVALO>
+nmap -sn <IP-OR-RANGE>
 
-Exemplo: nmap -sn 192.168.0.0/24
+Example:
+nmap -sn 192.168.0.0/24
 
+Tips and Notes:
 
-* Dicas e Observações
+Useful for quickly mapping who is connected to your local network.
 
+Can be combined with -v for more details (verbose mode).
 
-Útil para mapear rapidamente quem está conectado à sua rede local.
+Does not require root privileges on most systems.
 
-Pode ser combinado com -v para mais detalhes (modo verboso).
-
-Não requer privilégios de root na maioria dos sistemas.
-
-Equivalente ao comando antigo: ping sweep.
+Equivalent to the old command: ping sweep.
 
 
-
-
-
-Data: 14-04-2025
