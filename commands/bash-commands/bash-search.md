@@ -11,7 +11,7 @@ Find text inside files.
 
 grep "text" file.txt
 
-📌 Simple commands to find files and text in your system.
+Simple commands to find files and text in your system.
 
 Options:
 
