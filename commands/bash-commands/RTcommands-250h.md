@@ -6,9 +6,9 @@ This checklist covers essential Linux commands you'll need to get comfortable wi
 
 ## 🔐 Permissions & Ownership
 
-- [ ] `whoami` — Show current user
-- [ ] `id` — Show user and group IDs
-- [ ] `sudo -l` — Check sudo privileges for the current user
+- [X] `whoami` — Show current user
+- [X] `id` — Show user and group IDs
+- [X] `sudo -l` — Check sudo privileges for the current user
 - [ ] `chmod` — Change file permissions (e.g. `chmod +x file.sh`)
 - [ ] `chown` — Change file ownership (e.g. `chown user:group file`)
 
