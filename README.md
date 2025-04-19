@@ -1,29 +1,23 @@
-# 🧠 Codex
+🧠 Codex
+Personal repository of knowledge, commands, automations, and technical records.
+It works as my arsenal, my war manual.
 
-Repositório pessoal de conhecimento, comandos, automações e registros técnicos.  
-Funciona como meu **arsenal**, meu **manual de guerra**.
+📁 Structure
+codex/
+├── commands/ → Individual commands with explanations and examples
+├── scripts/ → Automated scripts in bash, python, etc.
+├── daily-logs/ → Daily logs of learning, testing, and progress
+├── write-ups/ → Analyses, exploits, and challenge resolutions
 
----
+🔎 About
+This repository was created to centralize my entire technical learning process — especially in information security, networking, and automation.
 
-## 📁 Estrutura
+It includes:
 
+Commands explained and organized by topic
 
-codex/ 
-├── commands/ → Comandos individuais com explicações e exemplos 
-├── scripts/ → Scripts automatizados em bash, python, etc.
-├── daily-logs/ → Logs diários de aprendizado, testes, progresso 
-├── write-ups/ → Análises, exploits e resoluções de desafios
+Ready-to-use or modifiable scripts
 
+Daily study notes
 
----
-
-## 🔎 Sobre
-
-Este repositório foi criado para centralizar todo o meu processo de aprendizado técnico — especialmente em segurança da informação, redes e automação.
-
-Inclui:
-
-- Comandos explicados e organizados por assunto
-- Scripts prontos para uso ou modificação
-- Anotações diárias de estudo
-- Write-ups de labs, CTFs ou exploits que estudei/testei
+Write-ups of labs, CTFs, or exploits I studied/tested
